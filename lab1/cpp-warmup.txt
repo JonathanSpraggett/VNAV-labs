@@ -1,0 +1,16 @@
+Operators:
+    1: i = 2, j = 1
+    2: "b"
+
+References and Pointers
+    1: "10 10"
+    2: 1764
+    3: 0
+    4: 0
+
+
+Numbers
+    1: int is 4 bytes, long is 4 or 8, long long is 8 bytes, short is 2 bytes
+    2: double has more bytes for floating point precision, more decimal places.  and 3
+    3: unisgned is 0 and up while signed is from -x to x, 255
+    4: 0 cause any other number then 0 is true for c

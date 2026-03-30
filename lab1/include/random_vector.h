@@ -3,6 +3,7 @@
 
 class RandomVector{
   std::vector<double> vect;
+   double max_value;
   
   public:
     RandomVector(int size, double max_val = 1);

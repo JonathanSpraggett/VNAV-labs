@@ -1,5 +1,6 @@
-#include <cstdlib> // required for srand
+#include <cstdlib>  // required for srand
 #include <iostream>
+
 #include "random_vector.h"
 
 int main(){ 
@@ -15,4 +16,6 @@ int main(){
   std::cout << "Histogram:" << std::endl;
   rv.printHistogram(5);
   std::cout << std::endl;
+
+
 }
