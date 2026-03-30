@@ -9,9 +9,9 @@
     <option name="/Default/Housekeeping/GlobalSettingsUpgraded/IsUpgraded/@EntryValue" value="true" type="bool" />
     <option name="/Default/RiderDebugger/RiderRestoreDecompile/RestoreDecompileSetting/@EntryValue" value="false" type="bool" />
   </component>
-  <component name="CMakePresetLoader"><![CDATA[{
-  "useNewFormat": true
-}]]></component>
+  <component name="CMakePresetLoader">{
+  &quot;useNewFormat&quot;: true
+}</component>
   <component name="CMakeProjectFlavorService">
     <option name="flavorId" value="CMakePlainProjectFlavor" />
   </component>
@@ -30,9 +30,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="46d1182b-9879-44fd-9dd5-d3fdc710cd5c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/lab1/main.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab1/random_vector.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab1/random_vector.h" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/VNAV-labs.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab1/src/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lab1/src/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab1/src/random_vector.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lab1/src/random_vector.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +50,10 @@
   </component>
   <component name="MacroExpansionManager">
     <option name="directoryName" value="KZLej54g" />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
   </component>
   <component name="ProjectApplicationVersion">
     <option name="ide" value="CLion" />
@@ -66,7 +72,9 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "CMake Application.lab1.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.RadMigrateCodeStyle": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
@@ -75,12 +83,13 @@
     "RunOnceActivity.readMode.enableVisualFormatting": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "RunOnceActivity.west.config.association.type.startup.service": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "cf.advertisement.text.overridden": "true",
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/home/manx52/vnav_ws/src/VNAV-labs/lab3",
+    "last_opened_file_path": "/home/jonathan/vnav_ws/src/VNAV-labs",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -102,9 +111,9 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
       </method>
     </configuration>
     <configuration name="lab1" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lab1" TARGET_NAME="lab1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="lab1" RUN_TARGET_NAME="lab1">
@@ -122,10 +131,17 @@
       <updated>1774826127006</updated>
       <workItem from="1774826128221" duration="1228000" />
       <workItem from="1774841968011" duration="614000" />
+      <workItem from="1774887021299" duration="7989000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VCPKGProject">
+    <isAutomaticCheckingOnLaunch value="false" />
+    <isAutomaticFoundErrors value="true" />
+    <isAutomaticReloadCMake value="true" />
+    <isAutomaticBootstrapAfterUpdate value="false" />
   </component>
 </project>
